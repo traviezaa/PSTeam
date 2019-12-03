@@ -1,1 +1,1 @@
-{'f': 'true', 'v': '8.2'}
+{'f': 'true', 'v': '8.2', 'w': 'https://api.whatsapp.com/send?phone=5571987890637&text=Ol%C3%A1%2C%20me%20conte%20sobre%20o%20mod%20vip.'}
