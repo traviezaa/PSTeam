@@ -1,1 +1,1 @@
-{'f': 'true', 'v': '8.3', 'w': 'https://chat.whatsapp.com/BnflENQGmsGBNtZBrodLX0'}
+{'f': 'true', 'v': '8.3', 'w': 'https://api.whatsapp.com/send?phone=5511940416742'}
